@@ -20,11 +20,9 @@ string LongToAscii(unsigned long _iElem){
 }
 
 bool IsPalindrome(long lNumber){
-	//It should work correctly
 	string strNumber = LongToAscii(lNumber);
-	unsigned long j = strNumber.length() - 1;
-	for (int i = 0; i < strNumber.length() - 1 / 2; i++, j--) {
-		if(strNumber.at(i) != strNumber.at(j))
+	for (int i = 0, m = strNumber.length(); i < m/ 2; i++) {
+		if(strNumber.at(i) != strNumber.at(m-i-1))
 			return false;
 	}
 	return true;
