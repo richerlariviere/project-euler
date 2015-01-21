@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DFAE115D-00B7-4F18-AC80-5C396A3DCE88</string>
+	<string>A4AB5837-11F5-4E5E-848E-314D72F08C90</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Project Euler 7</string>
+	<string>Project Euler 8</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>E75C44AA4D2CFC3046FEFA639F2927249586598F</key>
 		<string>https://github.com/richerlariviere/project-euler.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>problem-7/Project Euler 7.xcodeproj</string>
+	<string>Project Euler 8/Project Euler 8.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E75C44AA4D2CFC3046FEFA639F2927249586598F</key>

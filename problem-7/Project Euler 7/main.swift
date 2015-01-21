@@ -28,6 +28,6 @@ do {
     if IsPrime(++currentNumber){
         primeCount++
     }
-} while primeCount < 6;
+} while primeCount < 10001;
 
 println(currentNumber)
