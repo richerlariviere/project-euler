@@ -45,7 +45,7 @@ int main(int argc, const char * argv[]){
 		i++;
 	}
 	
-	cout<<"Answer is : "<< i << endl;
+	cout<<"Answer is : "<< i << endl;
 	
 
 	return 0;
